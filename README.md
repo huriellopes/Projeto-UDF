@@ -22,7 +22,7 @@ Para a instalação do sistema, para desenvolvimento localmente, deve instalar o
     1 - Desenvolvedor Web e Responsável pelo Banco de Dados: Huriel Lopes
     2 - Documentação do Sistema: Janaína Bessa e Daniel Saulo
 
-Site: [a link target="_blank"](https://huriellopes.github.io)
+Site: <a href="https://huriellopes.github.io" target="_blank" title="Huriel Lopes">Huriel Lopes</a>
 
 # Agradecimentos
 Agradeço aos companheiros do grupo como a Janaína Bessa e o Daniel Saulo, por darem o seu melhor para desenvolvermos uma documentação e um sistema de qualidade para aprovação de todos no TCC! Agradeço também ao coordenador Jorge Luiz Santana por está sempre a nossa disposição para tirarmos dúvidas e darmos todo apoio!
