@@ -28,4 +28,4 @@ Site: <a href="https://huriellopes.github.io" target="_blank" title="Huriel Lope
 Agradeço aos companheiros do grupo como a Janaína Bessa e o Daniel Saulo, por darem o seu melhor para desenvolvermos uma documentação e um sistema de qualidade para aprovação de todos no TCC! Agradeço também ao coordenador Jorge Luiz Santana por está sempre a nossa disposição para tirarmos dúvidas e darmos todo apoio!
 
 # Reflexão
-"Você pode encarar um erro como uma besteira a ser esquecida, ou como um resultado que aponta uma nova direção." Steve Jobs
+"Você pode encarar um erro como uma besteira a ser esquecida, ou como um resultado que aponta uma nova direção." <strong>Steve Jobs</strong>
