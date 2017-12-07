@@ -1,5 +1,5 @@
 # Projeto-UDF
-Projeto Seu Negócio Sob Controle, escolhido para o projeto de TCC do curso "Análise e Desenvolvimento de Sistemas", tendo em vista que o projeto é com objetivo de gerenciar clientes e vendas por mês.
+Projeto Seu Negócio Sob Controle, escolhido para o projeto de TCC do curso <strong>Análise e Desenvolvimento de Sistemas</strong>, tendo em vista que o projeto é com objetivo de gerenciar clientes e vendas por mês.
 
 # Ferramentas de Desenvolvimento e Linguagens
     1 - Visual Studio Code (IDE)
