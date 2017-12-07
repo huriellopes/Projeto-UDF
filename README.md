@@ -19,8 +19,8 @@ Projeto Seu Negócio Sob Controle, escolhido para o projeto de TCC do curso "An�
 Para a instalação do sistema, para desenvolvimento localmente, deve instalar o servidor web 'Xampp' com o PHP na versão 7.1.7 e o Mysql 5.7.19. O sistema é web, podendo ser acessível por qualquer navegador, sendo de sugestão os navegadores : Google Chrome, Firefox Mozilla e Opera!
 
 # Créditos
-Desenvolvedor Web e Responsável pelo Banco de Dados: Huriel Lopes
-Documentação do Sistema: Janaína Bessa e Daniel Saulo
+    1 - Desenvolvedor Web e Responsável pelo Banco de Dados: Huriel Lopes
+    2 - Documentação do Sistema: Janaína Bessa e Daniel Saulo
 
 Site: https://huriellopes.github
 
